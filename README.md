@@ -1,2 +1,25 @@
-# expense-tracker
-Managing daily expenses is an important skill for students, especially those living in hostels. Many students tend to overspend because they do not keep track of their daily expenses. This project aims to provide a simple and efficient solution to track and manage expenses using Python.
+# Expense Tracker
+
+## Problem
+Students often lose track of daily expenses.
+
+## Solution
+This Python program helps track and analyze expenses.
+
+## Features
+- Add expense
+- View all expenses
+- Total spending calculation
+- Highest expense tracking
+
+## How to Run
+1. Install Python
+2. Run: python main.py
+
+## Example
+Enter amount: 200
+Category: food
+
+## Author
+Jasmine Susan Jinu
+25BOE10153
