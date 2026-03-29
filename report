@@ -1,0 +1,90 @@
+##PROJECT REPORT - Expense Tracker using Python
+
+##1. Introduction
+Managing daily expenses is an important skill for students, especially those living in hostels. Many students tend to overspend because they do not keep track of their daily expenses. This project aims to provide a simple and efficient solution to track and manage expenses using Python.
+
+##2. Problem Statement
+Students often face difficulty in managing their finances due to lack of proper tracking. Without monitoring expenses, it becomes hard to control spending and maintain a budget.
+
+##3. Objective
+The main objectives of this project are:
+To develop a simple expense tracking system
+To help users record and monitor daily expenses
+To calculate total spending
+To identify the highest expense
+To store data permanently using file handling
+
+##4. Methodology
+The project is implemented using the Python programming language. The following concepts are used:
+Lists to store expense data
+Dictionaries to store amount and category
+Functions for modular programming
+Loops for continuous execution
+Conditional statements for decision making
+File handling (JSON) to save and load data
+
+
+
+
+##Working:
+The program displays a menu with options.
+The user selects an option (add/view/total/highest).
+Data is stored in a list.
+Expenses are saved in a file (expenses.json).
+When the program restarts, saved data is loaded.
+
+##5. Features of the Project
+Add new expenses with category
+View all recorded expenses
+Calculate total spending
+Display highest expense
+Data persistence using JSON file
+User-friendly menu system
+
+##6. Tools and Technologies Used
+Programming Language: Python
+Editor: VS Code / IDLE
+Data Storage: JSON file
+Platform: GitHub
+
+##7. Sample Input and Output
+Input:
+Enter amount: 200
+Enter category: food
+Output:
+Expense added & saved!
+Total spending: ₹200
+
+
+
+
+##8. Challenges Faced
+Handling file read/write operations
+Managing empty expense list
+Ensuring correct user input
+Implementing data persistence
+
+##9. Conclusion
+The Expense Tracker project successfully demonstrates how Python can be used to solve real-life problems. It helps users manage their daily expenses effectively and promotes better financial habits. The project also enhances programming skills and understanding of core Python concepts.
+
+##10. Future Enhancements
+Add graphical user interface (GUI)
+Include date-wise tracking
+Add budget limit warnings
+Generate expense reports and charts
+
+##11. Learning Outcomes
+Through this project, I learned:
+Practical use of Python programming
+Problem-solving techniques
+File handling using JSON
+Writing modular and structured code
+Using GitHub for project submission
+
+##12. References
+Python Official Documentation
+Online tutorials and learning resources
+
+
+PROJECT DONE BY: JASMINE SUSAN JINU
+REGISTRATION NUMBER: 25BOE10153
